@@ -1,4 +1,4 @@
-````markdown
+
 # EC2からGitHubのprivateリポジトリを安全にcloneする：Machine User + SSH鍵の完全ガイド
 
 ## リード文
